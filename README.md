@@ -1,7 +1,7 @@
 TTGetDateTimeString
 ===================
 
-Return a datetime string for my .bat file.
+Return a datetime string for my `.bat` file.
 
 
 ## Usage
